@@ -145,12 +145,16 @@ Kurulum ve Çalıştırma
 
 Backend
 
-cd back-end
-npm install
-npm start
+-cd back-end
+
+-npm install
+
+-npm start
 
 Frontend
 
-cd front-end
-npm install
-npm run dev
+- cd front-end
+
+- npm install
+  
+- npm run dev
